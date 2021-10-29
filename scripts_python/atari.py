@@ -1,5 +1,5 @@
 '''
-    Developer: Admin
+    Developer: Andres Felipe Obando
     Date: 29-oct-2021
     Description: Copia de seguridad 
     Desarrollo de la versión 1.0 de un video juego de atari.
