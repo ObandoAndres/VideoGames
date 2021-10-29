@@ -1,7 +1,7 @@
 '''
-    Developer: jayala
-    Date: 30-sept-2021
-    Description:
+    Developer: Admin
+    Date: 29-oct-2021
+    Description: Copia de seguridad 
     Desarrollo de la versión 1.0 de un video juego de atari.
 '''
 
